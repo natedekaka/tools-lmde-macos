@@ -1,0 +1,7 @@
+{
+ "uuid": "overview-switcher@cinnamon.org",
+ "name": "overview switcher",
+ "description": "Select the overview workspace from the panel",
+ "icon": "cs-workspaces",
+ "max-instances": -1
+}

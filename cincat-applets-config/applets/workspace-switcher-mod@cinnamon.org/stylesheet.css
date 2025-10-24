@@ -1,0 +1,16 @@
+.ws-button {
+    padding: 4px;
+    margin: 2px;
+    border-radius: 50%;
+    background-color: transparent;
+    transition: opacity 150ms;
+}
+
+.ws-button:hover {
+    background-color: rgba(150, 150, 150, 0.2);
+}
+
+.ws-button-shaded {
+    opacity: 0.4; /* unused workspace dimmed */
+}
+
